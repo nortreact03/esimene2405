@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf54cb3a.css",
+    "main.js": "/static/js/main.e017edd2.js",
+    "static/js/453.6b2ae297.chunk.js": "/static/js/453.6b2ae297.chunk.js",
+    "static/media/suusataja1.jpg": "/static/media/suusataja1.74e7d0ae274e7f3247bc.jpg",
+    "index.html": "/index.html",
+    "main.bf54cb3a.css.map": "/static/css/main.bf54cb3a.css.map",
+    "main.e017edd2.js.map": "/static/js/main.e017edd2.js.map",
+    "453.6b2ae297.chunk.js.map": "/static/js/453.6b2ae297.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf54cb3a.css",
+    "static/js/main.e017edd2.js"
+  ]
+}
