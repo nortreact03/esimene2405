@@ -1,4 +1,4 @@
-function Luuletus() {
+function Luuletus(props) {
     return (
         <div className="luuletus">
             <p>
@@ -10,6 +10,7 @@ function Luuletus() {
             <p>
                 sest selleks hommik ongi
             </p>
+            <img className='img-responsive'  src={props.pilt} alt='suusataja' />
         </div>
     )
 }
